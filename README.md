@@ -32,7 +32,7 @@ This dashboard solves that by providing a **centralized, visual view of key HR m
 ---
 
 ## 📈 Dashboard Preview
-
+https://github.com/himanshi-manral/hr-analytics-dashboard/blob/main/Sanpshot%20of%20Dashboard.jpeg
 
 ---
 
@@ -54,4 +54,4 @@ This dashboard solves that by providing a **centralized, visual view of key HR m
 ## 📁 Files Included
 - `hr-analytics-dashboard.pbix`
 - `README.md`
-- `Snapshot of Dashboard`
+- `Snapshot of Dashboard.jpeg`
