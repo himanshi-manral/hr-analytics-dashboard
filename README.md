@@ -32,6 +32,7 @@ This dashboard solves that by providing a **centralized, visual view of key HR m
 ---
 
 ## 📈 Dashboard Preview
+
 https://github.com/himanshi-manral/hr-analytics-dashboard/blob/main/snapshot%20of%20the%20dashboard.jpeg
 ---
 
