@@ -1,12 +1,5 @@
 # 📊 HR Analytics Dashboard (Power BI)
 
-## 🔍 Project Overview
-An interactive **HR Analytics Dashboard** built using Power BI to analyze workforce data and generate actionable insights across employee distribution, salary trends, and demographics.
-
-This project demonstrates strong skills in **data visualization, business understanding, and dashboard design**.
-
----
-
 ## 🎯 Business Problem
 HR teams often struggle to quickly understand workforce composition and salary distribution.  
 This dashboard solves that by providing a **centralized, visual view of key HR metrics** for better decision-making.
