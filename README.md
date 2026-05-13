@@ -19,7 +19,6 @@ This dashboard solves that by providing a **centralized, visual view of key HR m
 
 ## 🛠️ Tools Used
 - Power BI  
-- Power Query  
 - DAX  
 
 ---
